@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1042-Challenge-Simple-Sort/1042-Challenge-Simple-Sort.iml" filepath="$PROJECT_DIR$/1042-Challenge-Simple-Sort/1042-Challenge-Simple-Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1043-Challenge-Triangle/1043-Challenge-Triangle.iml" filepath="$PROJECT_DIR$/1043-Challenge-Triangle/1043-Challenge-Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1044-Challenge-Multiple/1044-Challenge-Multiple.iml" filepath="$PROJECT_DIR$/1044-Challenge-Multiple/1044-Challenge-Multiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1047-Minute_Play_Time/1047-Minute_Play_Time.iml" filepath="$PROJECT_DIR$/1047-Minute_Play_Time/1047-Minute_Play_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1048-Challenge-Salary-Increase/1048-Challenge-Salary-Increase.iml" filepath="$PROJECT_DIR$/1048-Challenge-Salary-Increase/1048-Challenge-Salary-Increase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1049-Challenge-Animal/1049-Challenge-Animal.iml" filepath="$PROJECT_DIR$/1049-Challenge-Animal/1049-Challenge-Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1050-Challenge-DDD/1050-Challenge-DDD.iml" filepath="$PROJECT_DIR$/1050-Challenge-DDD/1050-Challenge-DDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1051-Challenge-Income-tax/1051-Challenge-Income-tax.iml" filepath="$PROJECT_DIR$/1051-Challenge-Income-tax/1051-Challenge-Income-tax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1052-Challenge-Month/1052-Challenge-Month.iml" filepath="$PROJECT_DIR$/1052-Challenge-Month/1052-Challenge-Month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1059-Challenge-Pair-Numbers/1059-Challenge-Pair-Numbers.iml" filepath="$PROJECT_DIR$/1059-Challenge-Pair-Numbers/1059-Challenge-Pair-Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1060-Challenge-Positive-Numbers/1060-Challenge-Positive-Numbers.iml" filepath="$PROJECT_DIR$/1060-Challenge-Positive-Numbers/1060-Challenge-Positive-Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Uri-Online-Judge.iml" filepath="$PROJECT_DIR$/.idea/Uri-Online-Judge.iml" />
+    </modules>
+  </component>
+</project>
