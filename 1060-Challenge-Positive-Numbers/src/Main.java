@@ -1,28 +1,20 @@
 import java.io.IOException;
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int valor = 6;
-        int[] minhaLista = new int[valor];
-        
-        int i = 0;
-        while (i < 6){
-            minhaLista[i] = leitor.nextInt();
-            i++;
 
-            if (minhaLista[i] <= 0) {
-                valor--;
+        double numero;
+
+        int totalNumeroPositivo = 0;
+
+        for (int i = 0; i < 6; i++) {
+            numero = leitor.nextDouble();
+            if (numero > 0) {
+                totalNumeroPositivo += 1;
             }
         }
-        System.out.println(Arrays.toString(minhaLista));
-        System.out.println(minhaLista.length);
-
-
-
-
-
-
+        System.out.println(totalNumeroPositivo + " números positivos");
     }
 }
