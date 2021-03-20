@@ -1,4 +1,4 @@
-#1067 - Six Odd Numbers
+# 1067 - Six Odd Numbers
 
 This program shows a sequence of six odd numbers after the assigned number.
 
