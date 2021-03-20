@@ -11,7 +11,7 @@ public class Main {
         // aqui vai medir o intervalo entre os dois números.
         int quantidadePosicao = Math.abs(numero1 - numero2);
         //enquanto o "i" for menor que o intervalo, o "i" aumenta mais um e os numeros dos intervalos
-        // serão jogados para dentro de um array somente os números ímpares.
+        // serão jogados para dentro de um array, somente os números ímpares.
         for (int i = 0; i < quantidadePosicao; i++) {
             if (lista.indexOf(1) == numero2){
                 lista.remove(1);
