@@ -5,4 +5,4 @@ This program calculates the square of the even numbers of a given range of a val
 ___
 # 1072 - Quadrado de Pares
 
-Este programa calcula o quadrado dos numeros pares de um determinado intervalo de um valor. A lógica usada foi somente usar um laço de repetição para mostrar os valores e uma condição para mostrsr o resultado somente dos numeros pares dentro deste intervalo.
+Este programa calcula o quadrado dos números pares de um determinado intervalo de um valor. A lógica usada foi somente usar um laço de repetição para mostrar os valores e uma condição para mostrar o resultado somente dos numeros pares dentro deste intervalo.
