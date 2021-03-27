@@ -2,29 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1042-Challenge-Simple-Sort/1042-Challenge-Simple-Sort.iml" filepath="$PROJECT_DIR$/1042-Challenge-Simple-Sort/1042-Challenge-Simple-Sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1043-Challenge-Triangle/1043-Challenge-Triangle.iml" filepath="$PROJECT_DIR$/1043-Challenge-Triangle/1043-Challenge-Triangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1044-Challenge-Multiple/1044-Challenge-Multiple.iml" filepath="$PROJECT_DIR$/1044-Challenge-Multiple/1044-Challenge-Multiple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1047-Minute_Play_Time/1047-Minute_Play_Time.iml" filepath="$PROJECT_DIR$/1047-Minute_Play_Time/1047-Minute_Play_Time.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1048-Challenge-Salary-Increase/1048-Challenge-Salary-Increase.iml" filepath="$PROJECT_DIR$/1048-Challenge-Salary-Increase/1048-Challenge-Salary-Increase.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1049-Challenge-Animal/1049-Challenge-Animal.iml" filepath="$PROJECT_DIR$/1049-Challenge-Animal/1049-Challenge-Animal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1050-Challenge-DDD/1050-Challenge-DDD.iml" filepath="$PROJECT_DIR$/1050-Challenge-DDD/1050-Challenge-DDD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1051-Challenge-Income-tax/1051-Challenge-Income-tax.iml" filepath="$PROJECT_DIR$/1051-Challenge-Income-tax/1051-Challenge-Income-tax.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1052-Challenge-Month/1052-Challenge-Month.iml" filepath="$PROJECT_DIR$/1052-Challenge-Month/1052-Challenge-Month.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1059-Challenge-Pair-Numbers/1059-Challenge-Pair-Numbers.iml" filepath="$PROJECT_DIR$/1059-Challenge-Pair-Numbers/1059-Challenge-Pair-Numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1060-Challenge-Positive-Numbers/1060-Challenge-Positive-Numbers.iml" filepath="$PROJECT_DIR$/1060-Challenge-Positive-Numbers/1060-Challenge-Positive-Numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1061-Time-of-an-Event/1061-Time-of-an-Event.iml" filepath="$PROJECT_DIR$/1061-Time-of-an-Event/1061-Time-of-an-Event.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1064-Positives-and-Average/1064-Positives-and-Average.iml" filepath="$PROJECT_DIR$/1064-Positives-and-Average/1064-Positives-and-Average.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1065-Pairs-Between-Five-Numbers/1065-Pairs-Between-Five-Numbers.iml" filepath="$PROJECT_DIR$/1065-Pairs-Between-Five-Numbers/1065-Pairs-Between-Five-Numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1066-Even-Odd-Positive-and-Negative/1066-Even-Odd-Positive-and-Negative.iml" filepath="$PROJECT_DIR$/1066-Even-Odd-Positive-and-Negative/1066-Even-Odd-Positive-and-Negative.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1067-Odd-Numbers/1067-Odd-Numbers.iml" filepath="$PROJECT_DIR$/1067-Odd-Numbers/1067-Odd-Numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1070-Six-Odd-Numbers/1070-Six-Odd-Numbers.iml" filepath="$PROJECT_DIR$/1070-Six-Odd-Numbers/1070-Six-Odd-Numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1071-Sum-of-Consecutive-Odd-I/1071-Sum-of-Consecutive-Odd-I.iml" filepath="$PROJECT_DIR$/1071-Sum-of-Consecutive-Odd-I/1071-Sum-of-Consecutive-Odd-I.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1072-Interval-2/1072-Interval-2.iml" filepath="$PROJECT_DIR$/1072-Interval-2/1072-Interval-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1073-Pairs-Square/1073-Pairs-Square.iml" filepath="$PROJECT_DIR$/1073-Pairs-Square/1073-Pairs-Square.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1074-Odd-Or-Even/1074-Odd-Or-Even.iml" filepath="$PROJECT_DIR$/1074-Odd-Or-Even/1074-Odd-Or-Even.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1075-Rest-2/1075-Rest-2.iml" filepath="$PROJECT_DIR$/1075-Rest-2/1075-Rest-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1078-Multiplication-Table/1078-Multiplication-Table.iml" filepath="$PROJECT_DIR$/1078-Multiplication-Table/1078-Multiplication-Table.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Uri-Online-Judge.iml" filepath="$PROJECT_DIR$/.idea/Uri-Online-Judge.iml" />
     </modules>
   </component>
