@@ -9,6 +9,7 @@ Often the list will be updated, according to my evolution on the platform.
 
 - C++
 - Java
+- Python
 
 All resolved challenges are with their platform identification number and the challenge name.
 
