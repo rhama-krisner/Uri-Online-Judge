@@ -9,6 +9,7 @@ Often the list will be updated, according to my evolution on the platform.
 
 - C++
 - Java
+- Python
 
 All resolved challenges are with their platform identification number and the challenge name.
 
@@ -26,6 +27,7 @@ Com frequência a lista será atualizada, de acordo com minha evolução na plat
 
 - C ++
 - Java
+- Python
 
 Todos os desafios resolvidos estão com seu número de identificação na plataforma e o nome do desafio.
 
