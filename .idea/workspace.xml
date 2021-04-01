@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8943be43-4f9c-4b38-8dd9-a7433eb63765" name="Default Changelist" comment="1097 - Challenge">
-      <change afterPath="$PROJECT_DIR$/1095-Sequence/1095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1096-Challenge-Sequence-IJ2/1096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1097-Challenge-Sequence-IJ3/1097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1098-Challenge-Sequence-IJ4/1098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1099-Challenge-Sum-of-Consecutive-Odd/1099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1101-Challenge-Sequence-of-Numbers-and-Sum/1101.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,28 +37,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.1099">
-    <configuration name="1095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Uri-Online-Judge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1095-Sequence" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1095-Sequence/1095.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1101">
     <configuration name="1096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Uri-Online-Judge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,13 +122,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Uri-Online-Judge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1101-Challenge-Sequence-of-Numbers-and-Sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1101-Challenge-Sequence-of-Numbers-and-Sum/1101.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1099" />
-        <item itemvalue="Python.1098" />
-        <item itemvalue="Python.1097" />
+        <item itemvalue="Python.1101" />
         <item itemvalue="Python.1096" />
-        <item itemvalue="Python.1095" />
       </list>
     </recent_temporary>
   </component>
