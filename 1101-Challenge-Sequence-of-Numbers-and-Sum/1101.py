@@ -1,7 +1,7 @@
 soma = []
 i = 0
 quantidade = 1
-while (i <= quantidade):
+while i <= quantidade:
     num1, num2 = input().split()
     num1 = int(num1)
     num2 = int(num2)
