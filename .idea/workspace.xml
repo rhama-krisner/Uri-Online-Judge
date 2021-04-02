@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8943be43-4f9c-4b38-8dd9-a7433eb63765" name="Default Changelist" comment="1113">
-      <change afterPath="$PROJECT_DIR$/1114-Challenge-Fixed-Password/1114.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Uri-Online-Judge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Uri-Online-Judge.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1113-Challenge-Ascending-and-Descending/1113.py" beforeDir="false" afterPath="$PROJECT_DIR$/1113-Challenge-Ascending-and-Descending/1113.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
